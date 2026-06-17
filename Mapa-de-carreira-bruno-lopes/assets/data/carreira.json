@@ -175,15 +175,15 @@
       "skills": [
         {
           "name": "Segurança Web",
-          "level": 40
+          "level": 60
         },
         {
           "name": "Linux",
-          "level": 45
+          "level": 50
         },
         {
           "name": "OWASP",
-          "level": 35
+          "level": 45
         }
       ]
     }
