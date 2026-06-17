@@ -1,0 +1,212 @@
+{
+  "seo": {
+    "title": "Bruno Lopes | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Bruno Lopes, com objetivos profissionais em desenvolvimento de software e cybersecurity, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Bruno Lopes",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Bruno Lopes",
+    "headline": "Desenvolvimento de Software e Cybersecurity",
+    "photo": "assets/images/profile.jpg",
+    "photoAlt": "Foto profissional de Bruno Lopes",
+    "summary": "Estudante de ADS (Análise e Desenvolvimento de Sistemas) com experiência em desenvolvimento full stack, incluindo web, mobile e desktop. Apaixonado por construir projetos práticos e com visão futura de especializar-se em Cybersecurity. Combino conhecimentos em múltiplas linguagens e tecnologias com aprendizado contínuo para entregar soluções de qualidade.",
+    "cvUrl": "https://docs.google.com/document/d/1KFYO4g3hRuHv26YTP2dV5-gtocsO485Q/edit?usp=sharing&ouid=108073220090512438664&rtpof=true&sd=true"
+  },
+  "contacts": [
+    {
+      "label": "bruno.sobral.dev@gmail.com",
+      "url": "mailto:bruno.sobral.dev@gmail.com"
+    },
+    {
+      "label": "linkedin.com/in/bruno-lopes",
+      "url": "https://www.linkedin.com/in/brunolopes0/"
+    },
+    {
+      "label": "github.com/brunolsobraldev",
+      "url": "https://github.com/brunolsobraldev"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Desenvolvedor Full Stack Júnior",
+      "description": "Ingressar na área de desenvolvimento trabalhando com sistemas web, banco de dados e aplicações corporativas. Aplicar conhecimentos adquiridos na faculdade e nos projetos desenvolvidos durante o curso, construindo uma base sólida em desenvolvimento.",
+      "softSkills": [
+        "Comunicação clara para trabalhar em equipe e tirar dúvidas com colegas.",
+        "Trabalho em equipe para colaborar em projetos compartilhados.",
+        "Organização para documentar código e acompanhar demandas.",
+        "Proatividade para buscar conhecimento e aprender novas tecnologias.",
+        "Aprendizado contínuo para evoluir técnica e profissionalmente."
+      ],
+      "roadmap": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "C#",
+        "SQL Server",
+        "Git e GitHub",
+        "APIs REST",
+        "Lógica de Programação"
+      ]
+    },
+    {
+      "title": "Desenvolvedor Full Stack Pleno",
+      "description": "Desenvolver sistemas mais complexos, participar da arquitetura de aplicações e atuar com boas práticas de desenvolvimento. Consolidar experiência com web, desktop e banco de dados.",
+      "softSkills": [
+        "Resolução de problemas para identificar e corrigir issues complexos.",
+        "Pensamento analítico para arquitetar soluções escaláveis.",
+        "Gestão de tempo para gerenciar múltiplos projetos simultaneamente.",
+        "Colaboração para trabalhar com diferentes áreas e equipes.",
+        "Autonomia para conduzir implementações e propor melhorias."
+      ],
+      "roadmap": [
+        ".NET",
+        "ASP.NET Core",
+        "React",
+        "Banco de Dados Avançado",
+        "Docker",
+        "Cloud Computing",
+        "Testes Automatizados",
+        "Arquitetura de Software"
+      ]
+    },
+    {
+      "title": "Analista de Segurança da Informação",
+      "description": "Iniciar a migração para Cybersecurity, aplicando conhecimentos de desenvolvimento para identificar vulnerabilidades e proteger sistemas. Aprofundar em segurança web e boas práticas de proteção.",
+      "softSkills": [
+        "Atenção aos detalhes para identificar vulnerabilidades.",
+        "Investigação para analisar e rastrear ameaças.",
+        "Pensamento crítico para avaliar riscos de segurança.",
+        "Responsabilidade por manter a integridade dos sistemas.",
+        "Ética profissional para agir com integridade e confidencialidade."
+      ],
+      "roadmap": [
+        "Redes de Computadores",
+        "Linux",
+        "Segurança Web",
+        "OWASP Top 10",
+        "Pentest Básico",
+        "SIEM",
+        "Gestão de Vulnerabilidades",
+        "LGPD"
+      ]
+    },
+    {
+      "title": "Especialista em Cybersecurity",
+      "description": "Atuar diretamente na proteção de sistemas, realizando análises de vulnerabilidades, testes de invasão e monitoramento de ameaças. Consolidar expertise técnica e estratégica em segurança.",
+      "softSkills": [
+        "Liderança técnica para coordenar esforços de segurança.",
+        "Comunicação estratégica para apresentar riscos e soluções.",
+        "Tomada de decisão para definir estratégias de proteção.",
+        "Resiliência para lidar com crises e incidentes.",
+        "Gestão de incidentes para responder rapidamente a ameaças."
+      ],
+      "roadmap": [
+        "Ethical Hacking",
+        "Pentest Avançado",
+        "Segurança em Cloud",
+        "Forense Digital",
+        "Threat Intelligence",
+        "DevSecOps",
+        "Red Team",
+        "Blue Team"
+      ]
+    },
+    {
+      "title": "Arquiteto de Segurança / Cybersecurity Manager",
+      "description": "Liderar estratégias de segurança da informação, definir políticas de proteção e coordenar equipes técnicas. Atuar como referência em segurança dentro da organização.",
+      "softSkills": [
+        "Liderança para desenvolver pessoas e fortalecer equipes.",
+        "Gestão de equipes para coordenar profissionais de segurança.",
+        "Negociação para defender estratégias e recursos de segurança.",
+        "Visão estratégica para alinhar segurança aos objetivos do negócio.",
+        "Inteligência emocional para lidar com desafios e conflitos."
+      ],
+      "roadmap": [
+        "Governança de TI",
+        "Gestão de Riscos",
+        "ISO 27001",
+        "NIST Framework",
+        "Segurança Corporativa",
+        "Liderança Técnica",
+        "Gestão de Projetos",
+        "Compliance"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Desenvolvimento Web",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 85
+        },
+        {
+          "name": "PHP",
+          "level": 80
+        },
+        {
+          "name": "APIs REST",
+          "level": 75
+        }
+      ]
+    },
+    {
+      "title": "Backend e Desktop",
+      "skills": [
+        {
+          "name": "C#",
+          "level": 80
+        },
+        {
+          "name": "SQL Server",
+          "level": 85
+        },
+        {
+          "name": "WPF/XAML",
+          "level": 75
+        }
+      ]
+    },
+    {
+      "title": "Segurança (em desenvolvimento)",
+      "skills": [
+        {
+          "name": "Segurança Web",
+          "level": 40
+        },
+        {
+          "name": "Linux",
+          "level": 45
+        },
+        {
+          "name": "OWASP",
+          "level": 35
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Desenvolvimento Full Stack",
+    "Projetos Práticos Completos",
+    "Banco de Dados",
+    "Git/GitHub",
+    "UI/UX",
+    "Aprendizado Contínuo",
+    "Facilidade em aprender novas tecnologias",
+    "Resolução de Problemas"
+  ],
+  "languages": [
+    {
+      "name": "Portugues",
+      "level": "Nativo"
+    },
+    {
+      "name": "Ingles",
+      "level": "Tecnico"
+    }
+
+  ]
+}
