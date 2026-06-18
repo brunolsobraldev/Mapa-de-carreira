@@ -44,6 +44,7 @@
         "JavaScript",
         "PHP",
         "C#",
+        "JAVA",
         "SQL Server",
         "Git e GitHub",
         "APIs REST",
@@ -144,7 +145,7 @@
           "level": 85
         },
         {
-          "name": "PHP",
+          "name": "PHP/C#/JAVA",
           "level": 80
         },
         {
